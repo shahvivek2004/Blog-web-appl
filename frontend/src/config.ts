@@ -1,0 +1,1 @@
+export const BE_URL='https://backend.vivekshah22042004.workers.dev';
